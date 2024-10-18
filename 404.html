@@ -3,11 +3,8 @@
   <head>
     <meta charset="UTF-8" />
     <script type="text/javascript">
-      // Check if the current URL path already contains "/webproject"
-      if (!window.location.pathname.includes("/webproject")) {
-        // Redirect to the correct path with "/webproject" only if it's not already there
-        window.location.replace("/webproject" + window.location.pathname);
-      }
+      // This will redirect the user to the index.html but keep the original path in the URL.
+      window.location.replace("/webproject/index.html");
     </script>
     <title>Redirecting...</title>
   </head>
