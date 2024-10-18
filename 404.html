@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <script type="text/javascript">
+      // This script checks if the current URL includes /webproject and reloads correctly.
+      var pathname = window.location.pathname;
+      if (pathname.startsWith("/webproject")) {
+        window.location.replace("/webproject/");
+      } else {
+        window.location.replace("/");
+      }
+    </script>
+    <title>Redirecting...</title>
+  </head>
+  <body>
+    <p>Redirecting...</p>
+  </body>
+</html>
