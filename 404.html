@@ -3,13 +3,9 @@
   <head>
     <meta charset="UTF-8" />
     <script type="text/javascript">
-      // This script checks if the current URL includes /webproject and reloads correctly.
-      var pathname = window.location.pathname;
-      if (pathname.startsWith("/webproject")) {
-        window.location.replace("/webproject/");
-      } else {
-        window.location.replace("/");
-      }
+      // Redirect the user to the correct base URL and preserve the current path
+      var redirectTo = window.location.pathname.replace("/webproject/", "/webproject/#/");
+      window.location.replace(redirectTo);
     </script>
     <title>Redirecting...</title>
   </head>
