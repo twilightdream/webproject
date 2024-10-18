@@ -3,9 +3,8 @@
   <head>
     <meta charset="UTF-8" />
     <script type="text/javascript">
-      // Redirect to the base URL of the app
-      var pathname = window.location.pathname;
-      window.location.replace("/webproject/");
+      // Redirect to the index.html while preserving the original path
+      window.location.replace("/webproject" + window.location.pathname);
     </script>
     <title>Redirecting...</title>
   </head>
