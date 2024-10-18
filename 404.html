@@ -3,9 +3,11 @@
   <head>
     <meta charset="UTF-8" />
     <script type="text/javascript">
-      // Redirect the user to the correct base URL and preserve the current path
-      var redirectTo = window.location.pathname.replace("/webproject/", "/webproject/#/");
-      window.location.replace(redirectTo);
+      // Redirect to the index.html while preserving the route path
+      var redirectTo = window.location.pathname
+        .replace('/webproject', '')
+        .replace('/', '');
+      window.location.replace('/webproject/#/' + redirectTo);
     </script>
     <title>Redirecting...</title>
   </head>
