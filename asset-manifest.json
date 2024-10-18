@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/aaron-website/static/css/main.53569e52.css",
+    "main.js": "/aaron-website/static/js/main.c395ff22.js",
+    "static/media/singapore.mp4": "/aaron-website/static/media/singapore.e48852c4f2743e6aec29.mp4",
+    "static/media/aboutpage.png": "/aaron-website/static/media/aboutpage.d8fba98bde16675be635.png",
+    "static/media/myself.png": "/aaron-website/static/media/myself.6aa2f1a32a6a7ef83d7c.png",
+    "static/media/MirrorMaze.png": "/aaron-website/static/media/MirrorMaze.5d0aa8fca258fe673da8.png",
+    "static/media/single.png": "/aaron-website/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/Friendzilla.png": "/aaron-website/static/media/Friendzilla.e1d66428fd04bd514fc5.png",
+    "index.html": "/aaron-website/index.html",
+    "main.53569e52.css.map": "/aaron-website/static/css/main.53569e52.css.map",
+    "main.c395ff22.js.map": "/aaron-website/static/js/main.c395ff22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53569e52.css",
+    "static/js/main.c395ff22.js"
+  ]
+}
