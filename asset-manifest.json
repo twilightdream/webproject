@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/webproject/static/css/main.53569e52.css",
-    "main.js": "/webproject/static/js/main.7b4d6191.js",
+    "main.css": "/webproject/static/css/main.0010a173.css",
+    "main.js": "/webproject/static/js/main.77f21963.js",
     "static/media/singapore.mp4": "/webproject/static/media/singapore.e48852c4f2743e6aec29.mp4",
     "static/media/aboutpage.png": "/webproject/static/media/aboutpage.d8fba98bde16675be635.png",
-    "static/media/myself.png": "/webproject/static/media/myself.6aa2f1a32a6a7ef83d7c.png",
+    "static/media/myself.png": "/webproject/static/media/myself.68744751bf567b5662dd.png",
     "static/media/MirrorMaze.png": "/webproject/static/media/MirrorMaze.5d0aa8fca258fe673da8.png",
     "static/media/single.png": "/webproject/static/media/single.20196aa3e7e7fa48f8f7.png",
     "static/media/Friendzilla.png": "/webproject/static/media/Friendzilla.e1d66428fd04bd514fc5.png",
     "index.html": "/webproject/index.html",
-    "main.53569e52.css.map": "/webproject/static/css/main.53569e52.css.map",
-    "main.7b4d6191.js.map": "/webproject/static/js/main.7b4d6191.js.map"
+    "main.0010a173.css.map": "/webproject/static/css/main.0010a173.css.map",
+    "main.77f21963.js.map": "/webproject/static/js/main.77f21963.js.map"
   },
   "entrypoints": [
-    "static/css/main.53569e52.css",
-    "static/js/main.7b4d6191.js"
+    "static/css/main.0010a173.css",
+    "static/js/main.77f21963.js"
   ]
 }
