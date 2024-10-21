@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/webproject/static/css/main.0010a173.css",
-    "main.js": "/webproject/static/js/main.77f21963.js",
-    "static/media/singapore.mp4": "/webproject/static/media/singapore.e48852c4f2743e6aec29.mp4",
+    "main.js": "/webproject/static/js/main.dc31e320.js",
+    "static/media/herovideo.mp4": "/webproject/static/media/herovideo.52e8933b6c462b590514.mp4",
     "static/media/aboutpage.png": "/webproject/static/media/aboutpage.d8fba98bde16675be635.png",
     "static/media/myself.png": "/webproject/static/media/myself.68744751bf567b5662dd.png",
     "static/media/MirrorMaze.png": "/webproject/static/media/MirrorMaze.5d0aa8fca258fe673da8.png",
@@ -10,10 +10,10 @@
     "static/media/Friendzilla.png": "/webproject/static/media/Friendzilla.e1d66428fd04bd514fc5.png",
     "index.html": "/webproject/index.html",
     "main.0010a173.css.map": "/webproject/static/css/main.0010a173.css.map",
-    "main.77f21963.js.map": "/webproject/static/js/main.77f21963.js.map"
+    "main.dc31e320.js.map": "/webproject/static/js/main.dc31e320.js.map"
   },
   "entrypoints": [
     "static/css/main.0010a173.css",
-    "static/js/main.77f21963.js"
+    "static/js/main.dc31e320.js"
   ]
 }
